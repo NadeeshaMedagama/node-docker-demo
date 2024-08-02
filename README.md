@@ -7,19 +7,18 @@ Before you begin, ensure you have the following installed:
 - [Docker Compose](https://docs.docker.com/compose/)
 
 1. Clone this repository to your local machine:
-
    ```bash
    git clone https://github.com/yourusername/nginx-docker-setup.git
    cd nginx-docker-setup
 
-2. Build the Docker image:
-
+1. Build the Docker image:
+   ```bash
    docker build -t nginx-image .
 
-3. Running the Application
-
+2. Running the Application
+   ```bash
    docker run -d -p 9000:80 nginx-image
 
 Accessing Nginx
-
-  http://localhost:9000/
+   ```bash
+   http://localhost:9000/
