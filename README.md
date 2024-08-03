@@ -22,3 +22,7 @@ Before you begin, ensure you have the following installed:
 Accessing Nginx
    ```bash
    http://localhost:9000/
+
+![Screenshot 2024-08-02 203752](https://github.com/user-attachments/assets/91033177-29d2-4ace-94d9-71440256875a)
+
+
